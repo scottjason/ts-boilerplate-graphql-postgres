@@ -71,7 +71,7 @@
     "react-dom": "^17.0.1",
     "react-icons": "^4.3.1",
     "react-router-dom": "^6.3.0",
-    "sequelize": "^6.19.0"
+    "sequelize": "^6.29.0"
   },
   "devDependencies": {
     "@babel/core": "^7.18.0",
